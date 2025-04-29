@@ -25,5 +25,6 @@ This is a Node.js + Express.js based RESTful API for product management with use
 - bcrypt
 - dotenv
 - Postman (for testing)
+- https://documenter.getpostman.com/view/41183726/2sB2j3ArFS
 
 ---
